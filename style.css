@@ -17,7 +17,13 @@
     background: #967896;
     color: floralwhite; 
 } 
-  
+ 
+.footer{
+    background-color: lightblue ;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
 body {
     font-size: 3em;
     font-family: "Architects Daughter", "Helvetica", "sans-serif";
