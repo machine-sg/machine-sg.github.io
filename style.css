@@ -15,12 +15,12 @@
 .jumbotron{
     padding: 10px 10px 10px 10px;
     margin: 0px auto;
-    background: #967896;
+    background: #997788;
     color: floralwhite; 
 } 
  
 .footer{
-    background-color: #D1C4E9 ;
+    
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -50,7 +50,7 @@ h1 {
     background-color: rgb(255, 255, 255);
     border: 40px solid rgb(128, 128, 128);
     border-bottom: 100px solid grey;
-    box-shadow: inset 0 0 20px #000000;
+    box-shadow: inset 0 0 20px black;
     /*background-image:radial-gradient(#5F9EA0,white); */
 }
   
@@ -59,24 +59,24 @@ button {
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     border-radius: 5px;
-    background: -moz-radial-gradient(pink, white);
-    background: -webkit-gradient(pink, white);
-    background: -webkit-radial-gradient(pink, white);
-    background: -o-radial-gradient(pink, white);
-    background: -ms-radial-gradient(pink, white);
-    background: radial-gradient(pink, white);
+    background: -moz-radial-gradient(#FFFF00, white);
+    background: -webkit-gradient(#FFFF00, white);
+    background: -webkit-radial-gradient(#FFFF00	, white);
+    background: -o-radial-gradient(#FFFF00	, white);
+    background: -ms-radial-gradient(#FFFF00	, white);
+    background: radial-gradient(#FFFF00, white);
 }
 button:active, button:focus, button:visited {
     outline: none;
 }
 button:hover {
-    background: -moz-radial-gradient(white, #5F9EA0);
-    background: -webkit-gradient(white, #5F9EA0);
-    background: -webkit-radial-gradient(white, #5F9EA0);
-    background: -o-radial-gradient(white, #5F9EA0);
-    background: -ms-radial-gradient(white, #5F9EA0);
-    background: radial-gradient(white, #5F9EA0);
-    /* background-image: $radial-gradient-reverse;*/
+    background: -moz-radial-gradient(white, #DB7093	);
+    background: -webkit-gradient(white, #DB7093	);
+    background: -webkit-radial-gradient(white, #DB7093);
+    background: -o-radial-gradient(white, #DB7093	);
+    background: -ms-radial-gradient(white, #DB7093	);
+    background: radial-gradient(white, #DB7093	);
+    
 }
   
 .choose-game p {
@@ -256,5 +256,7 @@ tr:not(:last-child) {
     background-color: #5F9EA0;
     opacity: 1;
 }
+
+
   
   
