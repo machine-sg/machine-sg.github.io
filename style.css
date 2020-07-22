@@ -15,7 +15,7 @@
 .jumbotron{
     padding: 10px 10px 10px 10px;
     margin: 0px auto;
-    background: #997788;
+    background: #967896;
     color: floralwhite; 
 } 
  
@@ -27,7 +27,7 @@
 
 body {
     font-size: 3em;
-    font-family: "Architects Daughter", "Helvetica", "sans-serif";
+    font-family: cursive;
     color: #4d4d4d;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -59,23 +59,23 @@ button {
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     border-radius: 5px;
-    background: -moz-radial-gradient(#FFFF00, white);
-    background: -webkit-gradient(#FFFF00, white);
-    background: -webkit-radial-gradient(#FFFF00	, white);
-    background: -o-radial-gradient(#FFFF00	, white);
-    background: -ms-radial-gradient(#FFFF00	, white);
-    background: radial-gradient(#FFFF00, white);
+    background: -moz-radial-gradient(pink, white);
+    background: -webkit-gradient(pink, white);
+    background: -webkit-radial-gradient(pink, white);
+    background: -o-radial-gradient(pink, white);
+    background: -ms-radial-gradient(pink, white);
+    background: radial-gradient(pink, white);
 }
 button:active, button:focus, button:visited {
     outline: none;
 }
 button:hover {
-    background: -moz-radial-gradient(white, #DB7093	);
-    background: -webkit-gradient(white, #DB7093	);
-    background: -webkit-radial-gradient(white, #DB7093);
-    background: -o-radial-gradient(white, #DB7093	);
-    background: -ms-radial-gradient(white, #DB7093	);
-    background: radial-gradient(white, #DB7093	);
+    background: -moz-radial-gradient(white, #FFFF00	);
+    background: -webkit-gradient(white, #FFFF00);
+    background: -webkit-radial-gradient(white, #FFFF00	);
+    background: -o-radial-gradient(white,#FFFF00);
+    background: -ms-radial-gradient(white,#FFFF00);
+    background: radial-gradient(white,#FFFF00);
     
 }
   
