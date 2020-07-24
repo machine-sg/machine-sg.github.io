@@ -26,5 +26,10 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.12.9"
-  }
+  },
+  "keywords": [
+    "Mars",
+    "Colonization",
+    "Program"
+  ]
 }
