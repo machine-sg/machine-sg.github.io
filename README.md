@@ -28,4 +28,4 @@ Functional programming paradigm has been used for the project.
 2. [.gitignore](https://github.com/machine-sg/Mars/blob/master/.gitignore) : This will prevent the node_modules folder to be added to the commit, and to be uploaded to the repository.
 
 # Deployed Web Application:
-here goes the webapp : https://machine-sg.github.io/
+Here goes the webapp : https://machine-sg.github.io/
